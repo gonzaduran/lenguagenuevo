@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Recetas Vivas - Página Web</title>
-    <link>https://recetasvivas.netlify.app/</link>
+    <link>https://lenguajenuevo.netlify.app/</link>
     <description>Página principal de la Web. Acceso directo al resto de páginas.</description>
     <language>es</language>
-    <atom:link href="https://recetasvivas.netlify.app/rss" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lenguajenuevo.netlify.app/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Página principal</title>
-      <link>https://recetasvivas.netlify.app/gallery</link>
+      <link>https://lenguajenuevo.netlify.app/gallery</link>
       <description>Consulta la portada renovada con nuevos contenidos destacados.</description>
     </item>
 
     <item>
       <title>Sobre nosotros</title>
-      <link>https://recetasvivas.netlify.app/about</link>
+      <link>https://lenguajenuevo.netlify.app/about</link>
       <description>El objetivo de la Web y toda su trayectoria. También incluye información sobre la comunidad.</description>
     </item>
 
     <item>
       <title>Contacto</title>
-      <link>https://recetasvivas.netlify.app/contact</link>
+      <link>https://lenguajenuevo.netlify.app/contact</link>
       <description>Toda la información sobre el contacto.</description>
     </item>
 
 
     <item>
       <title>Servicios</title>
-      <link>https://recetasvivas.netlify.app/services</link>
+      <link>https://lenguajenuevo.netlify.app/services</link>
       <description>Descubre los servicios que ofrecemos.</description>
     </item>
   </channel>
